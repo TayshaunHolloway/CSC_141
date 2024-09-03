@@ -1,0 +1,1 @@
+# I haven't really done any type of coding before but I'm looking forward to learning code so I can develop video games. 
