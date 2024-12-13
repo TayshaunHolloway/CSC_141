@@ -1,7 +1,7 @@
 favorite_places = {
-    'Devin': ['Japan', 'New Vegas', 'tierra del fuego'],
+    'Devin': ['japan', 'new vegas', 'brazil'],
     'Michael': ['hawaii', 'iceland'],
-    'Cindy': ['mt. verstovia', 'the playground', 'new hampshire']
+    'Cindy': ['mt. fuji', 'canada', 'new hampshire']
     }
 
 for name, places in favorite_places.items():
